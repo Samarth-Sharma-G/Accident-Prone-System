@@ -2,6 +2,8 @@
 
 📚 For Detailed Undertanding refer: <a href='https://ijsrset.com/IJSRSET23102120'> Research Paper </a>
 
+📊 Dataset for SSD and YOLO: <a href='https://www.kaggle.com/datasets/haarveys/accident-prone-system/data'> Dataset </a>
+
 Accident Prone System is an accident-detection model with an object
 detection algorithm as its backbone. Object detection algorithms are an
 integral part of deep learning. The proposed system aims for optimal
@@ -39,6 +41,7 @@ Demo Output in Frames:
 ![frame_0000 (1)](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/4fba96b6-93a7-4f72-b35a-fb4756810d98)
 ![frame_0005 (1)](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/eedf8b97-aeba-48cc-be80-07df95aba1f0)
 ![frame_0010 (1)](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/d32c7548-57eb-4367-bc51-64213d4d2dea)
+
 
 
 
