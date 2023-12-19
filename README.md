@@ -18,10 +18,22 @@ which are way faster than traditional algorithms and also much more efficient
 than their predecessors. Thus, the proposed system can be deployed for real-time accident detection and help save lives by faster post-accident recovery.
 
 The Idea's Gist in Video Format:
-https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/17d5106d-8db9-4292-90f2-48426a5abb63
+
+
+https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/1c8ea61b-4494-42be-8d9b-f72c5d7b482b
+
+System Flowchart and Model Architecture: 
+
+![image (1)](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/d2d3252a-ce0e-4383-8428-54be4fa9870a)
+
 
 Input Video:
-https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/97fdda44-b6fc-4f5b-aadc-ebe7e1d19d7a
+
+![input](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/a8979a77-70ed-478c-96b1-67eddf1f3974)
+
+Output Video:
+
+![output](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/d9a069b4-7929-48d3-b915-838deac63577)
 
 Demo Output in Frames:
 ![frame_0000 (1)](https://github.com/Samarth-Sharma-G/Accident-Prone-System/assets/107587243/4fba96b6-93a7-4f72-b35a-fb4756810d98)
